@@ -1,2 +1,4 @@
-# LeetCodeSolutions
-LeetCodeSolutions，力扣题解
+# LeetCode Solutions
+
+livorth 的 力扣题解
+
