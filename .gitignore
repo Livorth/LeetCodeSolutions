@@ -32,5 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 ###docsify###
+index.html
 *.exe
 *.bat
+.nojekyll
+_coverpage.md
+_sidebar.md
