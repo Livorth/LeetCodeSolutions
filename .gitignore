@@ -31,10 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-
 ###docsify###
-_coverpage.md
-_sidebar.md
 *.exe
 *.bat
-index.html
