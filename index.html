@@ -12,27 +12,19 @@
 </head>
 
 <body>
-  <div id="app">loading</div>
+  <div id="app"></div>
   <!-- docsify-edit-on-github -->
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
       name: 'livorth 的 题解',
       repo: 'https://github.com/Livorth/LeetCodeSolutions',
-      // logo: '/_media/icon.svg',
-      maxLevel: 6,//最大支持渲染的标题层级.
-      // 加载自定义导航栏
-      loadNavbar: true,
+      maxLevel: 5,//最大支持渲染的标题层级
       subMaxLevel: 3,
       homepage: 'README.md',
-      // 封面页
       // coverpage: true,
-      // 加载自定义侧边栏，_sidebar.md
       loadSidebar: true,
-      //切换页面后是否自动跳转到页面顶部
-      auto2top: true,
-
-
+      auto2top: true,//切换页面后是否自动跳转到页面顶部
       //全文搜索
       search: {
         //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
@@ -42,14 +34,11 @@
         // 搜索标题的最大程级, 1 - 6
         depth: 3,
       },
-      // 在github中编辑
       plugins: [
-        EditOnGithubPlugin.create('https://github.com/Livorth/LeetCodeSolutions/main')
+        EditOnGithubPlugin.create('https://github.com/Livorth/LeetCodeSolutions/main/')
       ],
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <!--Java代码高亮-->
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
@@ -61,7 +50,6 @@
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
   <!-- 字数统计 -->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-  
 </body>
 
 </html>
