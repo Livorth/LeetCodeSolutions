@@ -33,7 +33,6 @@ build/
 .vscode/
 
 ###docsify###
-.nojekyll
 _coverpage.md
 _sidebar.md
 *.exe
