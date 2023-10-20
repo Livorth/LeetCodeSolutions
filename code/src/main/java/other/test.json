@@ -1,0 +1,687 @@
+{
+  "data": {
+    "questionTagTypeWithTags": [
+      {
+        "name": "Fundamentals",
+        "transName": "基本",
+        "tagRelation": [
+          {
+            "questionNum": 1362,
+            "tag": {
+              "name": "Array",
+              "id": "540",
+              "nameTranslated": "数组",
+              "slug": "array"
+            }
+          },
+          {
+            "questionNum": 639,
+            "tag": {
+              "name": "String",
+              "id": "557",
+              "nameTranslated": "字符串",
+              "slug": "string"
+            }
+          },
+          {
+            "questionNum": 305,
+            "tag": {
+              "name": "Sorting",
+              "id": "42959",
+              "nameTranslated": "排序",
+              "slug": "sorting"
+            }
+          },
+          {
+            "questionNum": 207,
+            "tag": {
+              "name": "Matrix",
+              "id": "27408",
+              "nameTranslated": "矩阵",
+              "slug": "matrix"
+            }
+          },
+          {
+            "questionNum": 113,
+            "tag": {
+              "name": "Simulation",
+              "id": "57876",
+              "nameTranslated": "模拟",
+              "slug": "simulation"
+            }
+          },
+          {
+            "questionNum": 43,
+            "tag": {
+              "name": "Enumeration",
+              "id": "14474",
+              "nameTranslated": "枚举",
+              "slug": "enumeration"
+            }
+          },
+          {
+            "questionNum": 20,
+            "tag": {
+              "name": "String Matching",
+              "id": "44460",
+              "nameTranslated": "字符串匹配",
+              "slug": "string-matching"
+            }
+          },
+          {
+            "questionNum": 8,
+            "tag": {
+              "name": "Bucket Sort",
+              "id": "6579",
+              "nameTranslated": "桶排序",
+              "slug": "bucket-sort"
+            }
+          },
+          {
+            "questionNum": 6,
+            "tag": {
+              "name": "Counting Sort",
+              "id": "9957",
+              "nameTranslated": "计数排序",
+              "slug": "counting-sort"
+            }
+          },
+          {
+            "questionNum": 3,
+            "tag": {
+              "name": "Radix Sort",
+              "id": "37717",
+              "nameTranslated": "基数排序",
+              "slug": "radix-sort"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Algorithms",
+        "transName": "算法",
+        "tagRelation": [
+          {
+            "questionNum": 467,
+            "tag": {
+              "name": "Dynamic Programming",
+              "id": "562",
+              "nameTranslated": "动态规划",
+              "slug": "dynamic-programming"
+            }
+          },
+          {
+            "questionNum": 309,
+            "tag": {
+              "name": "Depth-First Search",
+              "id": "456",
+              "nameTranslated": "深度优先搜索",
+              "slug": "depth-first-search"
+            }
+          },
+          {
+            "questionNum": 267,
+            "tag": {
+              "name": "Greedy",
+              "id": "450",
+              "nameTranslated": "贪心",
+              "slug": "greedy"
+            }
+          },
+          {
+            "questionNum": 245,
+            "tag": {
+              "name": "Breadth-First Search",
+              "id": "457",
+              "nameTranslated": "广度优先搜索",
+              "slug": "breadth-first-search"
+            }
+          },
+          {
+            "questionNum": 224,
+            "tag": {
+              "name": "Binary Search",
+              "id": "558",
+              "nameTranslated": "二分查找",
+              "slug": "binary-search"
+            }
+          },
+          {
+            "questionNum": 120,
+            "tag": {
+              "name": "Backtracking",
+              "id": "563",
+              "nameTranslated": "回溯",
+              "slug": "backtracking"
+            }
+          },
+          {
+            "questionNum": 62,
+            "tag": {
+              "name": "Recursion",
+              "id": "469",
+              "nameTranslated": "递归",
+              "slug": "recursion"
+            }
+          },
+          {
+            "questionNum": 54,
+            "tag": {
+              "name": "Divide and Conquer",
+              "id": "559",
+              "nameTranslated": "分治",
+              "slug": "divide-and-conquer"
+            }
+          },
+          {
+            "questionNum": 39,
+            "tag": {
+              "name": "Memoization",
+              "id": "472",
+              "nameTranslated": "记忆化搜索",
+              "slug": "memoization"
+            }
+          },
+          {
+            "questionNum": 12,
+            "tag": {
+              "name": "Merge Sort",
+              "id": "61266",
+              "nameTranslated": "归并排序",
+              "slug": "merge-sort"
+            }
+          },
+          {
+            "questionNum": 11,
+            "tag": {
+              "name": "Quickselect",
+              "id": "37497",
+              "nameTranslated": "快速选择",
+              "slug": "quickselect"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Common Data Structures",
+        "transName": "基础数据结构",
+        "tagRelation": [
+          {
+            "questionNum": 483,
+            "tag": {
+              "name": "Hash Table",
+              "id": "541",
+              "nameTranslated": "哈希表",
+              "slug": "hash-table"
+            }
+          },
+          {
+            "questionNum": 240,
+            "tag": {
+              "name": "Tree",
+              "id": "455",
+              "nameTranslated": "树",
+              "slug": "tree"
+            }
+          },
+          {
+            "questionNum": 205,
+            "tag": {
+              "name": "Binary Tree",
+              "id": "5691",
+              "nameTranslated": "二叉树",
+              "slug": "binary-tree"
+            }
+          },
+          {
+            "questionNum": 159,
+            "tag": {
+              "name": "Stack",
+              "id": "445",
+              "nameTranslated": "栈",
+              "slug": "stack"
+            }
+          },
+          {
+            "questionNum": 139,
+            "tag": {
+              "name": "Heap (Priority Queue)",
+              "id": "61264",
+              "nameTranslated": "堆（优先队列）",
+              "slug": "heap-priority-queue"
+            }
+          },
+          {
+            "questionNum": 127,
+            "tag": {
+              "name": "Graph",
+              "id": "460",
+              "nameTranslated": "图",
+              "slug": "graph"
+            }
+          },
+          {
+            "questionNum": 101,
+            "tag": {
+              "name": "Linked List",
+              "id": "554",
+              "nameTranslated": "链表",
+              "slug": "linked-list"
+            }
+          },
+          {
+            "questionNum": 55,
+            "tag": {
+              "name": "Binary Search Tree",
+              "id": "468",
+              "nameTranslated": "二叉搜索树",
+              "slug": "binary-search-tree"
+            }
+          },
+          {
+            "questionNum": 54,
+            "tag": {
+              "name": "Monotonic Stack",
+              "id": "57875",
+              "nameTranslated": "单调栈",
+              "slug": "monotonic-stack"
+            }
+          },
+          {
+            "questionNum": 53,
+            "tag": {
+              "name": "Ordered Set",
+              "id": "33101",
+              "nameTranslated": "有序集合",
+              "slug": "ordered-set"
+            }
+          },
+          {
+            "questionNum": 43,
+            "tag": {
+              "name": "Queue",
+              "id": "474",
+              "nameTranslated": "队列",
+              "slug": "queue"
+            }
+          },
+          {
+            "questionNum": 36,
+            "tag": {
+              "name": "Topological Sort",
+              "id": "464",
+              "nameTranslated": "拓扑排序",
+              "slug": "topological-sort"
+            }
+          },
+          {
+            "questionNum": 19,
+            "tag": {
+              "name": "Shortest Path",
+              "id": "41881",
+              "nameTranslated": "最短路",
+              "slug": "shortest-path"
+            }
+          },
+          {
+            "questionNum": 12,
+            "tag": {
+              "name": "Doubly-Linked List",
+              "id": "13001",
+              "nameTranslated": "双向链表",
+              "slug": "doubly-linked-list"
+            }
+          },
+          {
+            "questionNum": 11,
+            "tag": {
+              "name": "Monotonic Queue",
+              "id": "57874",
+              "nameTranslated": "单调队列",
+              "slug": "monotonic-queue"
+            }
+          },
+          {
+            "questionNum": 5,
+            "tag": {
+              "name": "Minimum Spanning Tree",
+              "id": "28334",
+              "nameTranslated": "最小生成树",
+              "slug": "minimum-spanning-tree"
+            }
+          },
+          {
+            "questionNum": 3,
+            "tag": {
+              "name": "Eulerian Circuit",
+              "id": "61262",
+              "nameTranslated": "欧拉回路",
+              "slug": "eulerian-circuit"
+            }
+          },
+          {
+            "questionNum": 2,
+            "tag": {
+              "name": "Biconnected Component",
+              "id": "61260",
+              "nameTranslated": "双连通分量",
+              "slug": "biconnected-component"
+            }
+          },
+          {
+            "questionNum": 2,
+            "tag": {
+              "name": "Strongly Connected Component",
+              "id": "61270",
+              "nameTranslated": "强连通分量",
+              "slug": "strongly-connected-component"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Advanced Data Structures",
+        "transName": "高级数据结构",
+        "tagRelation": [
+          {
+            "questionNum": 78,
+            "tag": {
+              "name": "Union Find",
+              "id": "459",
+              "nameTranslated": "并查集",
+              "slug": "union-find"
+            }
+          },
+          {
+            "questionNum": 51,
+            "tag": {
+              "name": "Trie",
+              "id": "465",
+              "nameTranslated": "字典树",
+              "slug": "trie"
+            }
+          },
+          {
+            "questionNum": 33,
+            "tag": {
+              "name": "Segment Tree",
+              "id": "467",
+              "nameTranslated": "线段树",
+              "slug": "segment-tree"
+            }
+          },
+          {
+            "questionNum": 24,
+            "tag": {
+              "name": "Binary Indexed Tree",
+              "id": "466",
+              "nameTranslated": "树状数组",
+              "slug": "binary-indexed-tree"
+            }
+          },
+          {
+            "questionNum": 6,
+            "tag": {
+              "name": "Suffix Array",
+              "id": "44775",
+              "nameTranslated": "后缀数组",
+              "slug": "suffix-array"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Techniques",
+        "transName": "技巧",
+        "tagRelation": [
+          {
+            "questionNum": 189,
+            "tag": {
+              "name": "Two Pointers",
+              "id": "556",
+              "nameTranslated": "双指针",
+              "slug": "two-pointers"
+            }
+          },
+          {
+            "questionNum": 175,
+            "tag": {
+              "name": "Bit Manipulation",
+              "id": "453",
+              "nameTranslated": "位运算",
+              "slug": "bit-manipulation"
+            }
+          },
+          {
+            "questionNum": 105,
+            "tag": {
+              "name": "Prefix Sum",
+              "id": "35641",
+              "nameTranslated": "前缀和",
+              "slug": "prefix-sum"
+            }
+          },
+          {
+            "questionNum": 96,
+            "tag": {
+              "name": "Counting",
+              "id": "9956",
+              "nameTranslated": "计数",
+              "slug": "counting"
+            }
+          },
+          {
+            "questionNum": 86,
+            "tag": {
+              "name": "Sliding Window",
+              "id": "54450",
+              "nameTranslated": "滑动窗口",
+              "slug": "sliding-window"
+            }
+          },
+          {
+            "questionNum": 40,
+            "tag": {
+              "name": "Bitmask",
+              "id": "5827",
+              "nameTranslated": "状态压缩",
+              "slug": "bitmask"
+            }
+          },
+          {
+            "questionNum": 26,
+            "tag": {
+              "name": "Hash Function",
+              "id": "61263",
+              "nameTranslated": "哈希函数",
+              "slug": "hash-function"
+            }
+          },
+          {
+            "questionNum": 18,
+            "tag": {
+              "name": "Rolling Hash",
+              "id": "61269",
+              "nameTranslated": "滚动哈希",
+              "slug": "rolling-hash"
+            }
+          },
+          {
+            "questionNum": 5,
+            "tag": {
+              "name": "Line Sweep",
+              "id": "54937",
+              "nameTranslated": "扫描线",
+              "slug": "line-sweep"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "transName": "数学",
+        "tagRelation": [
+          {
+            "questionNum": 436,
+            "tag": {
+              "name": "Math",
+              "id": "555",
+              "nameTranslated": "数学",
+              "slug": "math"
+            }
+          },
+          {
+            "questionNum": 37,
+            "tag": {
+              "name": "Geometry",
+              "id": "491",
+              "nameTranslated": "几何",
+              "slug": "geometry"
+            }
+          },
+          {
+            "questionNum": 24,
+            "tag": {
+              "name": "Game Theory",
+              "id": "17354",
+              "nameTranslated": "博弈",
+              "slug": "game-theory"
+            }
+          },
+          {
+            "questionNum": 19,
+            "tag": {
+              "name": "Combinatorics",
+              "id": "9005",
+              "nameTranslated": "组合数学",
+              "slug": "combinatorics"
+            }
+          },
+          {
+            "questionNum": 18,
+            "tag": {
+              "name": "Number Theory",
+              "id": "31634",
+              "nameTranslated": "数论",
+              "slug": "number-theory"
+            }
+          },
+          {
+            "questionNum": 14,
+            "tag": {
+              "name": "Randomized",
+              "id": "61268",
+              "nameTranslated": "随机化",
+              "slug": "randomized"
+            }
+          },
+          {
+            "questionNum": 9,
+            "tag": {
+              "name": "Probability and Statistics",
+              "id": "61267",
+              "nameTranslated": "概率与统计",
+              "slug": "probability-and-statistics"
+            }
+          },
+          {
+            "questionNum": 4,
+            "tag": {
+              "name": "Reservoir Sampling",
+              "id": "477",
+              "nameTranslated": "水塘抽样",
+              "slug": "reservoir-sampling"
+            }
+          },
+          {
+            "questionNum": 2,
+            "tag": {
+              "name": "Rejection Sampling",
+              "id": "53017",
+              "nameTranslated": "拒绝采样",
+              "slug": "rejection-sampling"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "transName": "其他",
+        "tagRelation": [
+          {
+            "questionNum": 211,
+            "tag": {
+              "name": "Database",
+              "id": "10978",
+              "nameTranslated": "数据库",
+              "slug": "database"
+            }
+          },
+          {
+            "questionNum": 146,
+            "tag": {
+              "name": "Design",
+              "id": "463",
+              "nameTranslated": "设计",
+              "slug": "design"
+            }
+          },
+          {
+            "questionNum": 23,
+            "tag": {
+              "name": "Data Stream",
+              "id": "10953",
+              "nameTranslated": "数据流",
+              "slug": "data-stream"
+            }
+          },
+          {
+            "questionNum": 18,
+            "tag": {
+              "name": "Interactive",
+              "id": "22142",
+              "nameTranslated": "交互",
+              "slug": "interactive"
+            }
+          },
+          {
+            "questionNum": 12,
+            "tag": {
+              "name": "Brainteaser",
+              "id": "470",
+              "nameTranslated": "脑筋急转弯",
+              "slug": "brainteaser"
+            }
+          },
+          {
+            "questionNum": 10,
+            "tag": {
+              "name": "Iterator",
+              "id": "22833",
+              "nameTranslated": "迭代器",
+              "slug": "iterator"
+            }
+          },
+          {
+            "questionNum": 9,
+            "tag": {
+              "name": "Concurrency",
+              "id": "9316",
+              "nameTranslated": "多线程",
+              "slug": "concurrency"
+            }
+          },
+          {
+            "questionNum": 4,
+            "tag": {
+              "name": "Shell",
+              "id": "41794",
+              "nameTranslated": "",
+              "slug": "shell"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
