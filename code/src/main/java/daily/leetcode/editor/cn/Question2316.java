@@ -73,7 +73,7 @@ public class Question2316 {
 
             // 构建临接表，方便后续dfs
             Arrays.setAll(graph, i -> new ArrayList<>());
-            for (var e : edges) {
+            for (int[] e : edges) {
                 int a = e[0], b = e[1];
                 graph[a].add(b);
                 graph[b].add(a);
