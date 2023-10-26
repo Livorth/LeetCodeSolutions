@@ -39,3 +39,4 @@ build/
 **/doc/
 **/.mvn/wrapper/
 .obsidian
+.trash
