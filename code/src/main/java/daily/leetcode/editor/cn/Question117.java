@@ -85,7 +85,7 @@ public class Question117 {
      * 执行耗时:0 ms,击败了100.00% 的Java用户
      * 内存消耗:41.9 MB,击败了68.88% 的Java用户
      */
-    class SolutionBFS2 {
+    class Solution {
         public Node connect(Node root) {
             Node node = root;
             // 存下一层的所有节点
