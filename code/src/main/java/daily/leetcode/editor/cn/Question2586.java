@@ -5,7 +5,7 @@ import java.util.*;
 public class Question2586 {
     public static void main(String[] args) {
         Solution solution = new Question2586().new Solution();
-        solution.vowelStrings(new String[]{"are","amy","u"}, 0, 2)
+        solution.vowelStrings(new String[]{"are","amy","u"}, 0, 2);
 
     }
 
