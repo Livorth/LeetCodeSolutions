@@ -46,6 +46,10 @@ public class Question1457 {
         }
     }
 
+    /**
+     * 执行耗时:7 ms,击败了95.00% 的Java用户
+     * 内存消耗:67.4 MB,击败了40.55% 的Java用户
+     */
     class Solution {
         public int pseudoPalindromicPaths(TreeNode root) {
             if (root == null) return 0;
