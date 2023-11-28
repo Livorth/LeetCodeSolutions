@@ -5,6 +5,7 @@ tags:
   - 题解
 cssclasses:
   - 力扣题解
+rating:
 ---
 
 ## 题目详情
