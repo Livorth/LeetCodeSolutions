@@ -25,7 +25,7 @@ public class Question1466 {
                 in[i] = new ArrayList<>();
                 out[i] = new ArrayList<>();
             }
-            for (int[] c : connections) {zhao
+            for (int[] c : connections) {
                 out[c[0]].add(c[1]);
                 in[c[1]].add(c[0]);
             }
