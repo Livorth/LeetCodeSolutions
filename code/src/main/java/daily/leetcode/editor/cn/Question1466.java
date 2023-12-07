@@ -14,33 +14,36 @@ public class Question1466 {
 
     /**
      * dfs，找出每个节点除了上层节点外有多少个下级节点
-     * 执行耗时:47 ms,击败了32.64% 的Java用户
-     * 内存消耗:67.5 MB,击败了39.39% 的Java用户
+     * 执行耗时:50 ms,击败了28.76% 的Java用户
+     * 内存消耗:66.2 MB,击败了69.44% 的Java用户
      */
     class Solution {
+        List<Integer>[] in;
+        List<Integer>[] out;
+
         public int minReorder(int n, int[][] connections) {
-            List<Integer>[] in = new List[n];
-            List<Integer>[] out = new List[n];
+            out = new List[n];
+            in = new List[n];
             for (int i = 0; i < n; i++) {
-                in[i] = new ArrayList<>();
                 out[i] = new ArrayList<>();
+                in[i] = new ArrayList<>();
             }
             for (int[] c : connections) {
                 out[c[0]].add(c[1]);
                 in[c[1]].add(c[0]);
             }
-            return dfs(0, -1, in, out);
+            return dfs(0, -1);
         }
 
-        private int dfs(int node, int parent, List<Integer>[] out, List<Integer>[] in) {
+        private int dfs(int node, int parent) {
             int res = 0;
             for (int i : out[node]) {
                 if (i == parent) continue;
-                res += dfs(i, node, out, in);
+                res += 1 + dfs(i, node);
             }
             for (int i : in[node]) {
                 if (i == parent) continue;
-                res += 1 + dfs(i, node, out, in);
+                res += dfs(i, node);
             }
             return res;
         }
