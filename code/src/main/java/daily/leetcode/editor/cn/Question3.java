@@ -24,6 +24,7 @@ public class Question3 {
                 res = Math.max(res, i - start + 1);
                 record[s.charAt(i)] = i;
             }
+
             return res;
         }
     }
